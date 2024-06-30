@@ -1,4 +1,5 @@
 # Prodigy_ML_Task_3
+Linkedin : https://www.linkedin.com/posts/mithin-pasupuleti-575961263_machinelearning-internship-prodigyinfotech-activity-7213156145559928833-tzCk?utm_source=share&utm_medium=member_desktop
  #🐱 Task completed: Image Classification of Cats and Dogs using Support Vector Machine (SVM) 🐶 #🎯 Objective: To classify images of cats and dogs from the Kaggle dataset using a Support Vector Machine (SVM). #📂 Dataset: The dataset used for this project is from Kaggle's "Dogs vs. Cats" competition. It includes 25,000 labeled images of cats and dogs for training and 12,500 images for testing.
 #🛠️ Steps and Workflow:
 1. Data Preparation: 📦 Unzipping the Dataset: Extracted the zip files for processing. 🔍 Reading and Exploring the Data: Verified image counts in training and testing directories. 📁 Organizing the Data: Sorted images into lists for cats and dogs based on filenames.
